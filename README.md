@@ -24,6 +24,7 @@ or install from CLI:
 ```bash
 mkdir dimeshift
 cd dimeshift
+nvm use 10.15.2
 git clone https://github.com/jeka-kiselyov/dimeshift.git .
 npm install -g bower
 npm install --save-dev jasmine-ajax
