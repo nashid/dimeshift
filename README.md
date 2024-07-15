@@ -24,6 +24,8 @@ or install from CLI:
 ```bash
 mkdir dimeshift
 cd dimeshift
+conda create -n dimeshift python=2.7
+conda activate dimeshift
 nvm use 10.15.2
 git clone https://github.com/jeka-kiselyov/dimeshift.git .
 npm install -g bower
