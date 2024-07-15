@@ -12,7 +12,7 @@
   "dependencies": {
     "jquery": "1.10.2",
     "jasmine": "https://github.com/pivotal/jasmine/releases/download/v2.0.2/jasmine-standalone-2.0.2.zip",
-    "jasmine-ajax": "https://raw.githubusercontent.com/pivotal/jasmine-ajax/master/lib/mock-ajax.js",
+    "jasmine-ajax": "https://raw.githubusercontent.com/jasmine/jasmine-ajax/main/lib/mock-ajax.js",
     "jsmart": "2.13.1",
     "backbone": "1.0.0",
     "backbone.paginator": "https://github.com/backbone-paginator/backbone.paginator/archive/2.0.2.zip",

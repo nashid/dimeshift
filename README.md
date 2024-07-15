@@ -25,6 +25,8 @@ or install from CLI:
 mkdir dimeshift
 cd dimeshift
 git clone https://github.com/jeka-kiselyov/dimeshift.git .
+npm install -g bower
+npm install --save-dev jasmine-ajax
 npm install
 ```
 * [Install npm](https://docs.npmjs.com/getting-started/installing-node) if you don't have it.
